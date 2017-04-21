@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="no_article_found">THERE IS NO Articles Today.</string>
+    <string name="no_internet">PLEASE CHECK YOUR INTERNET CONNECTION.</string>
+
+</resources>
